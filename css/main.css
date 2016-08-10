@@ -73,7 +73,7 @@ img {
 
 .footer h3 {
   color:#fff;
-  font-size:14px;
+  font-size:17px;
   font-weight:300;  
 }
 
@@ -81,4 +81,10 @@ img {
   color:#0393ff; 
   list-style:none;
   padding-left:0px;  
+}
+
+h2 {
+  color:#fff;
+  font-size:14px;
+  font-weight:300;  
 }
