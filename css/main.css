@@ -30,7 +30,7 @@ img {
 }
 
 .main {
-    background-image:url(/img/diagmonds.png);
+    background-image:url(img/diagmonds.png);
     background-size:141px 142px; 
     padding: 80px;
 }
