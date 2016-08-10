@@ -6,8 +6,8 @@ app.controller('MainController', ['$scope', function($scope) {
     author: "John Fusco",
     seasons: 6, 
     episode: "The Fellowship", 
-    description: "The day of the kurultai arrives, shaping Kublai's fate as khan. Ahmed makes his final stand, and Marco learns a terrible truth.", 
-    datetime: new Date(2016, 3, 17, 20, 00, 00, 00)  };
+    description: "Marco Polo is een Amerikaanse televisieserie over de jaren van ontdekkingsreiziger Marco Polo aan het hof van Koeblai Khan. De door John Fusco bedachte serie ging op 12 december 2014 in première op Netflix.", 
+    datetime: new Date(2014, 11, 12, 20, 00, 00, 00)  };
   $scope.got = {
     series: 'Game of Thrones',
     series_img: 'http://vignette3.wikia.nocookie.net/gameofthrones/images/d/d9/Battle_of_the_Bastards_32.jpg/revision/latest/scale-to-width-down/1000?cb=20160620165344',
@@ -15,7 +15,7 @@ app.controller('MainController', ['$scope', function($scope) {
     author: "George R.R. Martin",
     season: 6,
     episode: "Battle of the Bastards",
-    description: "Battle of the Bastards is the ninth episode of the sixth season of Game of Thrones. It is the fifty-ninth episode of the series overall. It premiered on June 19, 2016. It was written by David Benioff & D.B. Weiss and directed by Miguel Sapochnik.",
-    datetime: new Date(2011, 5, 19, 21, 00, 00, 00)
+    description: "Game of Thrones is een Amerikaanse fantasy-televisieserie die sinds 17 april 2011 uitgezonden wordt op de televisiezender HBO. De serie is gebaseerd op de boeken uit de serie Het Lied van IJs en Vuur van de Amerikaanse schrijver George R.R. Martin. Het verhaal van Game of Thrones speelt zich af in een mythische wereld, vooral in de Zeven Koninkrijken op het westelijke continent Westeros. Maar ook in het uiterste noorden van Westeros en op het oostelijke continent Essos.",
+    datetime: new Date(2011, 3, 17, 21, 00, 00, 00)
   };
 }]);
